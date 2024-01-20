@@ -1,0 +1,17 @@
+Package: seetaface-authorize
+Architecture: amd64
+Version: 1.0.0.1-1+dde
+Priority: optional
+Section: devel
+Maintainer: likier <likier@sina.cn>
+Installed-Size: 441
+Filename: ./s/seetaface-authorize/seetaface-authorize_1.0.0.1-1+dde_amd64.deb
+Size: 104388
+MD5sum: c0008f3a6d2c8ac4f35bbc6c92e2ede0
+SHA1: 2381df3af8b4bfa567f4a8d863e4df8c89492298
+SHA256: 092c9d2109aea56093af5c7e69049ade8073020e57f48d820e7f91a46566e03d
+SHA512: 2db88f4b32137a2521ead607974ac22b50344ba93e8ba181789a3c78e6dd26d0673ac49fa663d9f773a59e3e6e5b886d1c56f4228f995ca94ccb8763ea6df4a3
+Homepage: https://github.com/SeetaFace6Open/SeetaAuthorize
+Description: seetaface authorize module
+ The authorize module of seetaface.
+

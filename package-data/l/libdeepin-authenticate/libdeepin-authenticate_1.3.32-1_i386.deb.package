@@ -1,0 +1,19 @@
+Package: libdeepin-authenticate
+Architecture: i386
+Version: 1:1.3.32-1
+Priority: optional
+Section: devel
+Source: deepin-authenticate
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 120
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.4), libcairo2 (>= 1.2.4), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.3), libgtk2.0-0 (>= 2.8.0), libjson-c3 (>= 0.10), libjson-glib-1.0-0 (>= 0.12.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libssl1.1 (>= 1.1.0)
+Filename: ./l/libdeepin-authenticate/libdeepin-authenticate_1.3.32-1_i386.deb
+Size: 30024
+MD5sum: ec6e2c7dab1305e5f711aebe9f6bc8be
+SHA1: a064e0da87885e5e06e2aa1f5a53dc87c91413de
+SHA256: 17ca5b3bd6156dd80bcf19cc5ac7d06f69974acba63f653eb94f2837b703883e
+SHA512: e5fd99bcdb47f946bcbdf00a7524c5bf755d56c7b34f50415490dc2f8552438663f8645890a1bdb3ed6fb7f98271b606e73fd3baf6309b615951d0e4bcda09f5
+Homepage: http://www.deepin.org
+Description: deepin authenticate development kit
+ libdeepin-authentication is a development kit to develop application for authentication.
+

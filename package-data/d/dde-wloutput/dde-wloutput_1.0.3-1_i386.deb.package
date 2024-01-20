@@ -1,0 +1,18 @@
+Package: dde-wloutput
+Architecture: i386
+Version: 1.0.3-1
+Priority: optional
+Section: devel
+Maintainer: liuyong <liuyong@deepin.com>
+Installed-Size: 91
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.0), libkf5waylandclient5, libkf5waylandserver5, libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: ./d/dde-wloutput/dde-wloutput_1.0.3-1_i386.deb
+Size: 26416
+MD5sum: 5b88c1aac8cc99a9b2bbc9e422254288
+SHA1: 5297cb1c323a1e8839045f435e1ca82c801aab76
+SHA256: 164c6fdc6e4dc23503636541f2942e1efbc2760d494e565da824248011d03f29
+SHA512: 056bd8c2b0c53a91cd574410eecd1e78bf6bee2722c954cdbf0a4e54b6582204176e7eb3ea024be8d04b3d57581a220890ad3e7892ef4af7cdc991b5d6240fea
+Homepage: https://github.com/linuxdeepin/dde-wloutput
+Description: this is dde-wloutput
+ for wayland
+

@@ -1,0 +1,19 @@
+Package: golang-github-linuxdeepin-go-x11-client-dev
+Architecture: all
+Version: 0.6.9-1
+Priority: extra
+Section: devel
+Source: golang-github-linuxdeepin-go-x11-client
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1385
+Depends: golang-github-gavv-monotime-dev, golang-gopkg-check.v1-dev
+Filename: ./g/golang-github-linuxdeepin-go-x11-client-dev/golang-github-linuxdeepin-go-x11-client-dev_0.6.9-1_all.deb
+Size: 150084
+MD5sum: 084ba41ffa64572fea2674046007878b
+SHA1: 1feaaa5615dcb96c897cc7a4794bfd9b53cdf929
+SHA256: 1b9ff6742340a7e96b310e621345a7af79f94dfce3a15602bd7a270c5bcd7508
+SHA512: 42d69e3c5d9629389bc785c5ae6154ae7b6944e60a0467494d25b4ee3cc6eab7afa0965e627c04e81fd535140ed1b7e66cdb4451ceee850ae3f746a7197ef96f
+Homepage: https://github.com/linuxdeepin/go-x11-client
+Description: deepin go x11 client
+ mirrored from https://cr.deepin.io/#/admin/projects/go-x11-client
+

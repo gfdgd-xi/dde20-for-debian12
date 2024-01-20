@@ -1,0 +1,19 @@
+Package: libdeepin-authenticate-dev
+Architecture: i386
+Version: 1:1.3.32-1
+Priority: optional
+Section: devel
+Source: deepin-authenticate
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 31
+Depends: libdeepin-authenticate
+Filename: ./l/libdeepin-authenticate-dev/libdeepin-authenticate-dev_1.3.32-1_i386.deb
+Size: 4808
+MD5sum: 1eaced3a18e1e975ad66f835e5722419
+SHA1: d9fddfbc0f8ad4fa1ff73b1d2c25d4ecc9c94d29
+SHA256: ddd498802a910011ad90eab6a8d3a0120101eaabc35d20cbc3fc7ded9f3d2e0e
+SHA512: 4cfb5c2806ee62ef1eb6e5752d65bd70317ac75f2231dbc504b94e4d6f878125c3273a46a89d6da7365ac030d338cecedd8b3c13e4930158e3bb5d566e93556e
+Homepage: http://www.deepin.org
+Description: deepin authenticate development kit's file
+ libdeepin-authentication-dev is some file for libdeepin-authenticate.
+

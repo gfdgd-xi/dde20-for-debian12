@@ -1,0 +1,20 @@
+Package: deepin-fix-init
+Architecture: amd64
+Version: 0.1.6
+Priority: optional
+Section: utils
+Maintainer: Wuhansystem <wangxinpeng@uniontech.com>
+Installed-Size: 3330
+Depends: libc6 (>= 2.34), libncursesw6 (>= 6), libtinfo6 (>= 6), debianutils (>= 1.6), initramfs-tools-core, ttf-unifont, fbterm, ncurses-base, gettext-base
+Filename: ./d/deepin-fix-init/deepin-fix-init_0.1.6_amd64.deb
+Size: 459760
+MD5sum: aecb3d5251e90d567261691f1d3e7eb9
+SHA1: 79a5d6c2d30dcb1961377acbe7b9a411f6c92dd4
+SHA256: ea3b89c14b6f670db648ea10a36dad43722463a74d8f075ef3ab7a0f240a7b15
+SHA512: e2be4f5a742ac55586429bc9537caa234294f8b490d667070eb79e08dcf408f85fc5c7219e183b07b9516ae928a95a6d6ea8fe64b309bf6218a7754e71863a50
+Homepage: http://www.deepin.org
+Description: help users to deal with failures during the initramfs boot phase.
+ When an error occurs during the initramfs boot phase,
+ it will enter the UI provided by this program to assist
+ the user to execute the fsck command to fix the problem.
+

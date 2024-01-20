@@ -1,0 +1,17 @@
+Package: dde-device-formatter
+Architecture: amd64
+Version: 0.0.1.15-1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 246
+Filename: ./d/dde-device-formatter/dde-device-formatter_0.0.1.15-1_amd64.deb
+Size: 56000
+MD5sum: 7dac5c173406e545d7312a3b7f1ff9e2
+SHA1: 1492d4c2098d68255c8f6f76b459b7fce13a309b
+SHA256: 09b55565f285ccbd3d04b09b0b45e1ed23421812731242ae84d8e55b1afa2062
+SHA512: 74974f7ed1e0ccc79680ca7c2c0b52c1232b08813742a7e4eb0539a3cccc1631984b6556d71079b9ab06c27bb59848a9ea8f331d22a855bbcadf23121d739514
+Homepage: http://www.deepin.org
+Description: Device formatter
+ A simple graphical interface for creating file system in a block device.
+

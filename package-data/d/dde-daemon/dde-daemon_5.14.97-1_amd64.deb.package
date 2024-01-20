@@ -1,0 +1,26 @@
+Package: dde-daemon
+Architecture: amd64
+Version: 5.14.97-1
+Priority: optional
+Section: admin
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 110004
+Provides: lastore-daemon-migration
+Depends: bamfdaemon, bluez-obexd, cgroup-tools, dbus, dde-api (>> 3.17.1+), dde-polkit-agent, deepin-desktop-schemas (>> 5.1.2+), deepin-installer-timezones, deepin-proxy, deepin-sound-theme, deepin-wm | deepin-metacity | dde-kwin, dmidecode, dnsmasq-base, gnome-keyring, libglib2.0-bin, hwinfo, imwheel, ipwatchd, iso-codes, lastore-daemon, libfprint0 | libfprint | libfprint-2-2, libnl-3-200 (>= 3.2.7), libnl-genl-3-200 (>= 3.2.7), libnotify-bin, libpam-runtime (>= 1.1.3-2~), libpam0g (>= 0.99.7.1), libnss-myhostname, mobile-broadband-provider-info, network-manager, procps, rfkill, user-setup, xdotool, xkb-data, dde-dconfig-daemon, libasound2 (>= 1.0.24.1), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.14), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.2.4), libddcutil0, libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.25.2), libglib2.0-0 (>= 2.58.2), libgtk-3-0 (>= 3.0.0), libgudev-1.0-0 (>= 212), libinput10 (>= 0.21.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), librsvg2-2 (>= 2.14.4), libudev1 (>= 183), libx11-6 (>= 2:1.2.99.901), libxcursor1 (>> 1.1.2), libxfixes3, libxi6 (>= 2:1.2.99.4), libxrandr2
+Recommends: flatpak, iio-sensor-proxy, laptop-mode-tools, proxychains4, mesa-utils
+Suggests: bluez (>= 5.4), miraclecast, network-manager-l2tp, network-manager-openconnect, network-manager-openvpn, network-manager-pptp, network-manager-sstp, network-manager-vpnc, xserver-xorg-input-synaptics, xserver-xorg-input-wacom
+Conflicts: dde-workspace, lastore-daemon-migration
+Breaks: lastore-daemon (<< 0.9.64)
+Replaces: lastore-daemon (<< 0.9.64)
+Filename: ./d/dde-daemon/dde-daemon_5.14.97-1_amd64.deb
+Size: 20160504
+MD5sum: f8130c5f91a21c91d47f881c973fe405
+SHA1: de63ada248a159da77dec2b0c60fccfc35cfb227
+SHA256: d926e1f9c0e0ca95c966e73da57eb17a49e7382db47f38e40c0a0f8ff1e264d1
+SHA512: 7e4631fd8ea5dbc908454dd066b8838f4c2bb0b52ea730e1661f2891421eef05127d0c5f303b49407d9a925f751ae286928fefe1bdf93011d5242f45c45dda81
+Homepage: http://www.deepin.org
+Description: daemon handling the DDE session settings
+ This package contains the daemon which is responsible for setting the
+ various parameters of a DDE session and the applications that run
+ under it.
+

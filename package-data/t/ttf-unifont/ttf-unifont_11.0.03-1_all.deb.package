@@ -1,0 +1,48 @@
+Package: ttf-unifont
+Architecture: all
+Version: 1:11.0.03-1
+Multi-Arch: foreign
+Priority: optional
+Section: fonts
+Source: unifont
+Maintainer: Paul Hardy <unifoundry@unifoundry.com>
+Installed-Size: 17028
+Filename: ./t/ttf-unifont/ttf-unifont_11.0.03-1_all.deb
+Size: 2927560
+MD5sum: aaa8f4857b153fe3b10ed69bc2ba0b4b
+SHA1: 952d9e2183ef28ce0d9649450d7952303af11cc9
+SHA256: ed4a6052e537fc16390f0b21a39962f98e1a9ec49e9241556ed33ad2bd22c518
+SHA512: fa3eeb5c30d02ede447d02d5f96c11f0a49ba093115a1be0a38b03a8c43a2a890a65edc5d5eb71d08b0bbc98703743ad2628b0a9ab3b07ff1499f41c123ea610
+Homepage: http://unifoundry.com/unifont/
+Description: TrueType version of GNU Unifont
+ This contains four fonts: "Unifont", "Unifont Upper", "Unifont CSUR",
+ and "Unifont Sample".
+ .
+ unifont.ttf is a bitmap font converted into a scalable TrueType
+ outline font, Unifont.  Each pixel in the original bitmap font
+ is represented as an outlined square.  The font provides a glyph
+ for each visible code point (character) in the Unicode Basic
+ Multilingual Plane (BMP, or Plane 0).  The BMP contains most of
+ the world's modern writing scripts.  This font looks best at 12pt.
+ .
+ unifont_upper.ttf is a bitmap font converted into a scalable TrueType
+ outline font that covers Unicode ranges above Plane 0.  Most of its
+ glyphs are in Plane 1, the Unicode Supplemental Multilingual Plane (SMP).
+ .
+ unifont_csur.ttf is a bitmap font converted into a scalable TrueType
+ outline font that contains some scripts in the ConScript Unicode
+ Registry (CSUR).  These scripts are not part of the Unicode Standard,
+ but are a popular use for the Private Use Area (PUA).  This font
+ contains glyphs in Plane 0 and in the higher PUA planes.
+ .
+ unifont_sample.ttf is an SBIT font that contains combining circles
+ and is therefore suitable for illustrating individual Unicode glyphs.
+ The other font files do not contain combining circles and so are suitable
+ for general-purpose writing.
+ .
+ Complex fonts (such as Indic or Semitic scripts, where letters change
+ shape depending on their position in a word, or such as Mongolian, which
+ can be written vertically) will not render perfectly.  The philosophy
+ behind this font, though, is that anything meaningful is better than
+ an empty box for an unknown glyph.
+

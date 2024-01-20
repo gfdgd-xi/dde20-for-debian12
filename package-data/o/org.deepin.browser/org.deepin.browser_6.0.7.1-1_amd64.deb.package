@@ -1,0 +1,22 @@
+Package: org.deepin.browser
+Architecture: amd64
+Version: 6.0.7.1-1
+Priority: optional
+Section: web
+Maintainer: Deepin Browser <browser@deepin.com>
+Installed-Size: 283492
+Provides: gnome-www-browser, www-browser
+Depends: libasound2 (>= 1.0.16), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatomic1 (>= 4.8), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.35), libcairo2 (>= 1.6.0), libcups2 (>= 1.7.0), libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.38), libexpat1 (>= 2.0.1), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.11.0), libgbm1 (>= 17.1.0~rc2), libgcc-s1 (>= 4.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.4), libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.22), libpango-1.0-0 (>= 1.14.0), libsnappy1v5 (>= 1.1.8), libstdc++6 (>= 11), libwayland-client0 (>= 1.20.0), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.5), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, libxshmfence1, x11-utils, xdg-utils
+Recommends: upower, libu2f-udev, libgl1-mesa-dri, fonts-liberation, notification-daemon
+Conflicts: libgl1-mesa-swx11, libnettle4, libsecret-1-0 (<< 0.18)
+Breaks: chromium-lwn4chrome (<= 1.0-2), chromium-tt-rss-notifier (<= 0.5.2-2)
+Filename: ./o/org.deepin.browser/org.deepin.browser_6.0.7.1-1_amd64.deb
+Size: 88169228
+MD5sum: 92fcf5f6588cbe4b72282bc40d41ada0
+SHA1: cb97ca617437726595e5a0bc57059ac0e358e9ba
+SHA256: f02d779aac0b2f6441d7f92acf9e118ae3c1760623acdcfb0f303fc72cdc16a3
+SHA512: 663932d0fb1465b2e3bfbd5173718889a27247c2d70117d4e54eb236b51ee49a065462feadd6f74f30979bad695c10a907079e177011229356a87198b0cedf3c
+Homepage: https://www.deepin.com/
+Description: org.deepin.browser
+ A fast web browser with simple interface.
+

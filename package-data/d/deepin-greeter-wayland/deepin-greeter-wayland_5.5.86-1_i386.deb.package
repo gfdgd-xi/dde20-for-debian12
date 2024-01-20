@@ -1,0 +1,19 @@
+Package: deepin-greeter-wayland
+Architecture: i386
+Version: 5.5.86-1
+Priority: optional
+Section: devel
+Source: dde-session-shell
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 24
+Depends: dde-session-shell (= 5.5.86-1), dde-wayland-config
+Filename: ./d/deepin-greeter-wayland/deepin-greeter-wayland_5.5.86-1_i386.deb
+Size: 4340
+MD5sum: a3351bea63d42718abdc1fcdea83e0f8
+SHA1: 8df9fb8589bba144b539552a26ca6d987ca91a39
+SHA256: 5668586e7855de2f33006a129a6a18c32fd35ef4e71955a99cc86dcfc19f4d15
+SHA512: daf76bf53cae34dbac133d2c390443dadec411a528846acae5090adf89f41d6d87cad2d3dcb1e8615b4754822f847f8eda978db6529cc0637a2284084bf9e9c3
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dde-session-shell module config files
+ DDE Session Shell module configuration package adapted to the wayland environment for lightdm-deepin-greeter
+

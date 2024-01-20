@@ -1,0 +1,51 @@
+Package: xfonts-unifont
+Architecture: all
+Version: 1:11.0.03-1
+Multi-Arch: foreign
+Priority: optional
+Section: fonts
+Source: unifont
+Maintainer: Paul Hardy <unifoundry@unifoundry.com>
+Installed-Size: 4112
+Depends: xfonts-utils
+Suggests: ttf-unifont
+Conflicts: unifont (<< 1:5.1.20080706)
+Replaces: unifont (<< 1:5.1.20080706)
+Filename: ./x/xfonts-unifont/xfonts-unifont_11.0.03-1_all.deb
+Size: 2686676
+MD5sum: bc29a968f9a477716ea539efae1a8be8
+SHA1: 3dbc99050117c72ea7ae0845fe014e429ead7cb6
+SHA256: 0a009698587ac4d775df3d1d42f1e7e24519fe464c4a792bc1ebeb5b1eb1147d
+SHA512: 74aa9b0878b570ffb5c748f6c4611938776a3f99bbf309263dbc484516a47b4d48790cef3ab6b2bff167861161d1194ed6f1248177d33abdefcc415e47b5a780
+Homepage: http://unifoundry.com/unifont/
+Description: PCF (bitmap) version of GNU Unifont
+ This contains three fonts: "Unifont" (unifont.pcf.gz),
+ "Unifont CSUR" (unifont_csur.pcf.gz),  and
+ "Unifont Sample" (unifont_sample.pcf.gz).
+ .
+ This is a bitmap version of Unifont in a standard X11 format.
+ The fonts provide a glyph for each visible code point (character)
+ in the Unicode Basic Multilingual Plane (BMP, or Plane 0).  The BMP
+ contains most of the world's modern writing scripts.  These fonts
+ look best at 12pt.
+ .
+ unifont.pcf.gz contains Unicode Plane 0 glyphs.  This is the main font.
+ .
+ unifont_sample.pcf.gz contains combining circles for combining characters.
+ Thus it is suited for illustrating individual Unicode glyphs, whereas
+ Unifont is intended for general-purpose writing.
+ .
+ unifont_csur.pcf.gz contains some scripts in the Plane 0 ConScript
+ Unicode Registry (CSUR).  These scripts are not part of the Unicode
+ Standard, but are a popular use for the Private Use Area (PUA).
+ .
+ Complex fonts (such as Indic or Semitic scripts, where letters change
+ shape depending on their position in a word, or such as Mongolian, which
+ can be written vertically) will not render perfectly.  The philosophy
+ behind this font, though, is that anything meaningful is better than
+ an empty box for an unknown glyph.
+ .
+ Consider using the TrueType version instead (ttf-unifont), because
+ that version is scalable to any point size and has proper combining
+ character support.
+

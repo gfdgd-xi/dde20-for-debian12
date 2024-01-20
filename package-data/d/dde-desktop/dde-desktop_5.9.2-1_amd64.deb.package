@@ -1,0 +1,22 @@
+Package: dde-desktop
+Architecture: amd64
+Version: 5.9.2-1
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 1652
+Depends: libdde-file-manager (= 5.9.2-1)
+Recommends: qt5dxcb-plugin, deepin-screensaver
+Conflicts: dde-file-manager-oem, dde-workspace (<< 2.90.5)
+Replaces: dde-file-manager-oem
+Filename: ./d/dde-desktop/dde-desktop_5.9.2-1_amd64.deb
+Size: 466044
+MD5sum: 44543c5180eba4d8d2f0c1435951bdf2
+SHA1: db1cd31823a16a4998dee7b7ed29828e479f5d2e
+SHA256: a87ff30283479f0bab89373726b1fe2998097fae140a1eee31a1c96657a88c10
+SHA512: 013052ea4fd99ef38bad20870fcf52f07dcc86244ec621839a58c30b4dec882a014b289b0ddb037406ce9c5e40dda999b9cfd792e297e99a3bfb4728d90f8e48
+Homepage: http://www.deepin.org
+Description: deepin desktop-environment - desktop module
+ Deepin Desktop Environment (DDE) - desktop module.
+

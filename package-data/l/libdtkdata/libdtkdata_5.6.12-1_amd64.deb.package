@@ -1,0 +1,18 @@
+Package: libdtkdata
+Architecture: amd64
+Version: 5.6.12-1
+Priority: optional
+Section: libdevel
+Source: dtkcommon
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 12
+Filename: ./l/libdtkdata/libdtkdata_5.6.12-1_amd64.deb
+Size: 2760
+MD5sum: b47c34d8310378501c78739830bd9457
+SHA1: d88738f3fff989431d61e2005adb87c42e8052fd
+SHA256: d66856dc4b6ef202da08fafddc126ed125aa9ed7ee9b45c06837fd4af9a8d3dc
+SHA512: 14b84f417e653fe89d0a84da36963852074367845629834c9f493cec8d1c418c93145ed2298d187425e5a48c7b71d5c8d63763ec23395375035bcd3907893762
+Homepage: http://www.deepin.org/
+Description: dtk common files
+ Used to store public configuration files
+

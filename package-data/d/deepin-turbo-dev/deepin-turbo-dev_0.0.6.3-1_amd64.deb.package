@@ -1,0 +1,21 @@
+Package: deepin-turbo-dev
+Architecture: amd64
+Version: 0.0.6.3-1
+Priority: extra
+Section: devel
+Source: deepin-turbo
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 46
+Depends: deepin-turbo (= 0.0.6.3-1)
+Filename: ./d/deepin-turbo-dev/deepin-turbo-dev_0.0.6.3-1_amd64.deb
+Size: 9300
+MD5sum: f818a1eac7d43fedfb2bff9a5d180336
+SHA1: b93178970bccfaad825ee9a9e7569b3ad127cb55
+SHA256: 899b27cb5a41a6d12ee011b46fdd6ad9e7f8e5e53909046d2ebf095af1122a4c
+SHA512: e605f0c5c41375a9b642bb2a29713fd4e98d946e9c1cc2e140fa12490590fca63ba5182294bc2741d56250f36e4a580f5081ac7aa11784e2f18d17c58d72f08c
+Description: Development files for launchable applications
+ evelopment files for creating applications that can be launched
+ using deepin-turbo.
+ .
+ This package contains the header files and static libraries of deepin-turbo
+

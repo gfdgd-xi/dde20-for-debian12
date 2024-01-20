@@ -1,0 +1,21 @@
+Package: dde-grand-search
+Architecture: amd64
+Version: 5.4.3.10-1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3150
+Depends: dconf-gsettings-backend | gsettings-backend
+Recommends: deepin-anything-server, deepin-desktop-schemas (>= 5.8.0.34), dde-daemon (>= 5.12.0.31), startdde (>= 5.6.0.34), libimageeditor (>= 1.0.19)
+Conflicts: deepin-ai-daemon (<= 1.0.5)
+Replaces: deepin-ai-daemon (<= 1.0.5)
+Filename: ./d/dde-grand-search/dde-grand-search_5.4.3.10-1_amd64.deb
+Size: 721524
+MD5sum: 48304cc26ec22f2efe1bdc1560a72d06
+SHA1: ae2cbb4d4f849cfc0a7777f748b7546135b3a0f2
+SHA256: 997e77171798beaa104b6c89efc4cdb188bcab864f1955b4c50333e4b6f5d431
+SHA512: 75591c34c9cc9a75ca0c3d4539ee961b5909fa75f364e3b40dc4dcb69a123432ccf23541cd1b761446c453fb34cf6c37e9a3ae45b5f8b010da8521d17f6d170f
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - search module
+ Search module of deepin desktop-environment
+

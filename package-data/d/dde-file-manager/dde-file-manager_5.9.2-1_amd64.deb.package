@@ -1,0 +1,21 @@
+Package: dde-file-manager
+Architecture: amd64
+Version: 5.9.2-1
+Priority: optional
+Section: libdevel
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 37810
+Depends: libdde-file-manager (= 5.9.2-1), socat, cryfs, deepin-anything-dkms, libblockdev-crypto2, dde-device-formatter
+Recommends: dde-qt5integration, avfs, samba
+Conflicts: dde-file-manager-oem
+Replaces: dde-file-manager-oem
+Filename: ./d/dde-file-manager/dde-file-manager_5.9.2-1_amd64.deb
+Size: 24675772
+MD5sum: dea0c89d265b6687154baa267bd90c7d
+SHA1: 7d70327d4cf8f6cc2e91154cf571448d4a68ab6b
+SHA256: 65ddec04e1775bbfa249f57855074fe1417c2a1964a0b768cd251b7da1a8b274
+SHA512: 42d5c6a8a9a11d387c66cf6746580263ac1c14a57760d6005d9037850db24c0687cabba7773c5f45c160c463a927fa8c6cb2dc211833fabc3c32d52b1d7b41cb
+Homepage: http://www.deepin.org
+Description: File manager front end
+ File manager front-end of Deepin OS
+

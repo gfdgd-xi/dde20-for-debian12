@@ -1,0 +1,21 @@
+Package: deepin-default-settings-tuning
+Architecture: all
+Version: 2023.04.04-1
+Priority: optional
+Section: admin
+Source: deepin-default-settings
+Maintainer: sysdev <sysdev@deepin.com>
+Installed-Size: 37210
+Replaces: deepin-default-settings (<= 2018.1.23)
+Filename: ./d/deepin-default-settings-tuning/deepin-default-settings-tuning_2023.04.04-1_all.deb
+Size: 10638388
+MD5sum: 5e9334f37ec6b01a152a2cb3422c5d30
+SHA1: 421b36d51845907fc831c4b3721562f4811a1c1a
+SHA256: 557102cbb657c014d23cb8367ba281c66ca83b6c87ce259b55c3520b663602df
+SHA512: c9c03d72acef1ab43b1b36f11216cd2c01ac98b2ffb0e3db996fb7f7ec84f35ce7cd0efc6959df6c653c5cf056f68d91ae171635cf169b7cf4208a3d70ac3007
+Description: default settings for deepin destkop environment - misc overrides
+ This package does tweaking and to provide better experience of deepin desktop
+ environment.
+ .
+ This package includes files to override cups default page and fcitx icon.
+

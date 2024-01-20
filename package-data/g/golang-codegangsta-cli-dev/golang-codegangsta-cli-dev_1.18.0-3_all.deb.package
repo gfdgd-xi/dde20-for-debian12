@@ -1,0 +1,20 @@
+Package: golang-codegangsta-cli-dev
+Architecture: all
+Version: 1.18.0-3
+Priority: optional
+Section: oldlibs
+Source: golang-codegangsta-cli
+Maintainer: Debian Go Packaging Team <team+pkg-go@tracker.debian.org>
+Installed-Size: 13
+Depends: golang-github-codegangsta-cli-dev
+Filename: ./g/golang-codegangsta-cli-dev/golang-codegangsta-cli-dev_1.18.0-3_all.deb
+Size: 6984
+MD5sum: fc12fe5794b9c97bf4f32082171c1644
+SHA1: de304cd5d9745f386651e6f69bdcef6b61c67ba0
+SHA256: 35828b6b81f47a53e788b2f73e58a06c5360ae9265bb6fcd8c4cb656feebfd89
+SHA512: ae2df6c47f56e41ca3b8858dfa69fae50f380e08ac1f96352a9a18c6b1203886aebe55107cff24554a47f869819c6783cac8f783b4cd83ac1b6d7f1ab8c1efe4
+Homepage: https://github.com/codegangsta/cli
+Description: Transitional package for golang-github-codegangsta-cli-dev
+ This is a transitional package to ease upgrades to the
+ golang-github-codegangsta-cli-dev package. It can be safely removed.
+

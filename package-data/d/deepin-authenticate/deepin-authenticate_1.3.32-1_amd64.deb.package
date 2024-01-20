@@ -1,0 +1,20 @@
+Package: deepin-authenticate
+Architecture: amd64
+Version: 1:1.3.32-1
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 11639
+Depends: dde-api, libpam-runtime (>= 1.3.1.11), libc6 (>= 2.14), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.2.4), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.58.2), libgtk-3-0 (>= 3.0.0), libjson-c3 (>= 0.12), libpam0g (>= 0.99.7.1), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libssl1.1 (>= 1.1.1d), libsystemd0 (>= 237)
+Recommends: dde-qt5integration, deepin-face
+Conflicts: deepin-session, deepin-wm-switcher
+Filename: ./d/deepin-authenticate/deepin-authenticate_1.3.32-1_amd64.deb
+Size: 2523884
+MD5sum: 3aec847e0d1250f295e595349be0a6ab
+SHA1: a687fc3225a785749e933a558a019561c439f3a6
+SHA256: b4cbd7a9532680f29b364099ba474cf20c0a8f99a41de8d70c1bf8825cb5ab84
+SHA512: 571c699723bb96bba10d71ba626f043f39a238d91fde34112b2644d01fbf4c317a540f070231c472de5802df05e09cfc9d891226ba80759552218d2ea2c5e3e8
+Homepage: http://www.deepin.org
+Description: deepin authenticate service
+ deepin authentication is a service for user identifing.
+

@@ -1,0 +1,18 @@
+Package: deepin-sync-daemon
+Architecture: amd64
+Version: 1.1.1+c1-1
+Priority: extra
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 11131
+Depends: libc6 (>= 2.34), dbus-x11
+Filename: ./d/deepin-sync-daemon/deepin-sync-daemon_1.1.1+c1-1_amd64.deb
+Size: 2834628
+MD5sum: c11e393c032651eeec94a2d434604438
+SHA1: ebbde288fe72ee3695015d0ffe2f6f72c1db7d4f
+SHA256: 9fb21d7731dff1d9c91250ed7112386c441371e601376c5b67262e896e5fb197
+SHA512: 75675761282257de6b8c310435e54a90dba52d85ee9ec325270f28c041ffe78fafce0e86460b6d1c91c18c970d2a2b75ee088c3a944121556c49687d7ccc3f48
+Homepage: http://www.deepin.org
+Description: Deepin sync daemon for user configurations
+ Deepin sync daemon for network,appearance,dock,launcher.
+

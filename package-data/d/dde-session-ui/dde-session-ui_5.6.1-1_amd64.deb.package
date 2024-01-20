@@ -1,0 +1,23 @@
+Package: dde-session-ui
+Architecture: amd64
+Version: 5.6.1-1
+Priority: optional
+Section: devel
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 3344
+Provides: lightdm-greeter
+Depends: dconf-gsettings-backend | gsettings-backend, deepin-desktop-schemas (>= 5.9.14), libdframeworkdbus2 (>= 5.4.6), dde-daemon (>= 5.13.27), startdde (>= 5.8.15), x11-xserver-utils, dbus-x11, dde-session-shell, pandoc, libxcb-util0 | libxcb-util1
+Recommends: onboard
+Conflicts: dde-workspace, deepin-notifications, startdde (<< 2.91.1)
+Breaks: dde-workspace, startdde (<< 2.91.1)
+Replaces: deepin-notifications
+Filename: ./d/dde-session-ui/dde-session-ui_5.6.1-1_amd64.deb
+Size: 681064
+MD5sum: 785b817c98ae4a6fabe92775da44692e
+SHA1: 72757e912c2cf500a4b5494a0e5f24b7e7b3edc8
+SHA256: 7864333403e876467e7e6a97669fbfcfaae628c640534d99918ab44bd91b04cd
+SHA512: 25ec847af36b0f7a3b19742c99ac20c1a41853f07d94830dbb10b15e52e26d8999dc62a70acda546d1298af237d1d9df00728c1ca432c15bc9074b346aa8330d
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dde-session-ui module
+ Deepin desktop environment 2015 - dde-session-ui module.
+

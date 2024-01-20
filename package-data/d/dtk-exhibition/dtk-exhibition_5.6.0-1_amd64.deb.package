@@ -1,0 +1,20 @@
+Package: dtk-exhibition
+Architecture: amd64
+Version: 5.6.0-1
+Priority: optional
+Section: libs
+Source: dtkdeclarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 21958
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.1.0), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5quickcontrols2-5 (>= 5.7.1), libstdc++6 (>= 4.1.1), libdtkdeclarative5 (= 5.6.0-1), qml-module-qtquick-controls2-styles-chameleon (= 5.6.0-1)
+Filename: ./d/dtk-exhibition/dtk-exhibition_5.6.0-1_amd64.deb
+Size: 9839672
+MD5sum: f9b942b70a3a4c68ce8567978e3998e2
+SHA1: 44382cd8448a2ac2b6dd93301a73eecb0e21f334
+SHA256: 1b3fdd3b455b7b4af1d25e4c62364c567d06574bb94eab27b9355bd80a20b3f9
+SHA512: b5068c60e98e061e011f73c6499ddcfcde0554c834dd2bd81d829a360e0486a5b6c6bddf5c3e0ae94a41680e1d52cd74af59a429732e79852bf120e839890a6e
+Homepage: http://www.deepin.org
+Description: Deepin Tool Kit QML Controls example.
+ .
+ This package contains a applicatioin.
+

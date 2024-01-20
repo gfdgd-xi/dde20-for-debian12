@@ -1,0 +1,17 @@
+Package: seetaface-boxes
+Architecture: amd64
+Version: 1.0.0.1-1+dde
+Priority: optional
+Section: devel
+Maintainer: bd <bd@seetatech.com>
+Installed-Size: 284
+Filename: ./s/seetaface-boxes/seetaface-boxes_1.0.0.1-1+dde_amd64.deb
+Size: 74340
+MD5sum: 0a4009f21754ae045e656c6f0624a03d
+SHA1: df3a383ba6dbbcb3ca05c823542d4c848b203a3d
+SHA256: 9d31ac6c7437644e9aa39946f4acb97e655a3b268f3b2a93611b6de0a4eae844
+SHA512: 7ee0e645fac6d45c0f75d356ac43b32713004bcbc55058f56c893477fd98daef72f8e778768e8694fe5472c0b457161f6251322f14a5319a3bc1be15b5572638
+Homepage: https://github.com/TenniS-Open/TenniS.git
+Description: Faceboxes module of seetaface
+ The faceboxes module of seetaface
+

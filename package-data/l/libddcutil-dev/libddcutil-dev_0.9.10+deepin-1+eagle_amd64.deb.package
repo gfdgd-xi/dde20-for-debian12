@@ -1,0 +1,32 @@
+Package: libddcutil-dev
+Architecture: amd64
+Version: 0.9.10+deepin-1+eagle
+Priority: optional
+Section: libdevel
+Source: ddcutil
+Maintainer: Sanford Rockowitz <rockowitz@minsoft.com>
+Installed-Size: 91
+Depends: libddcutil0 (= 0.9.10+deepin-1+eagle)
+Filename: ./l/libddcutil-dev/libddcutil-dev_0.9.10+deepin-1+eagle_amd64.deb
+Size: 18616
+MD5sum: ff7349f3f0deec7cb1d62094249cef5a
+SHA1: 8b7deb501ebed9e9f519d2ea95497d0dc4d9d4a8
+SHA256: 8a20387f031d7bda7f8b4e214f10c49f7a9024fea7751a51742f65bce5ad1ded
+SHA512: 4926231ba5fb512abd65b2889c87b4d76212fdfe499c28580f7fdcac21bf1167737b2641556f8d9b9da4e2916fe483e0c5c8062e253f7719d0de128e384997bd
+Homepage: http://www.ddcutil.com
+Description: Control monitor settings - development files
+ ddcutil is used to query and change monitor settings.
+ .
+ ddcutil communicates with monitors implementing MCCS (Monitor Control Command
+ Set). Normally, communication is performed using the DDC/CI protocol on the
+ I2C bus.  Alternatively, communication can be performed over USB as per the
+ USB Monitor Control Class Specification.
+ .
+ A particular use case for ddcutil is as part of color profile management.
+ Monitor calibration is relative to the monitor color settings currently in
+ effect,  e.g. red  gain.  ddcutil allows color related settings to be saved
+ at the time a monitor is calibrated, and then restored when the calibration
+ is applied.
+ .
+ This package contains development files.
+

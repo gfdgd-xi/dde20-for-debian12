@@ -1,0 +1,22 @@
+Package: libdde-file-manager
+Architecture: amd64
+Version: 5.9.2-1
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: dde-file-manager
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 14580
+Depends: dconf-gsettings-backend | gsettings-backend, libpoppler-cpp0v5 (>= 0.48.0), gvfs-backends (>= 1.27.3), cryptsetup, deepin-anything-libs, libdfm-extension (= 5.9.2-1)
+Recommends: libudfburn
+Breaks: dde-file-manager (<= 1.2.3-3)
+Filename: ./l/libdde-file-manager/libdde-file-manager_5.9.2-1_amd64.deb
+Size: 3651716
+MD5sum: 0757adf75c9ce70114a06d0e6db9aa7f
+SHA1: 51ed836232f3a9c32e4096cccaecd2d4c065ef45
+SHA256: fc85ff5943725a70fba7a9409d6779e100896aac50f95238700d9c0cbffc378c
+SHA512: 82c40e002af1fdcff05224070ed1320592cf550844ac5d2b2c358fdeb7ef8f5e4f16d813ac2c2dd79ee311752667d230a5280a78d730b412af772258254b0ecc
+Homepage: http://www.deepin.org
+Description: DDE File Manager library
+ This package contains the shared libraries.
+

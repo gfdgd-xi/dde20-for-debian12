@@ -1,0 +1,18 @@
+Package: deepin-wallpapers-nonfree
+Architecture: all
+Version: 1.5-1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 8384
+Breaks: deepin-desktop-base (<< 2017.11.2)
+Filename: ./d/deepin-wallpapers-nonfree/deepin-wallpapers-nonfree_1.5-1_all.deb
+Size: 8500372
+MD5sum: fd5d69ccf7113f411dbb7027550cb699
+SHA1: e46662213d1e87c8213b922b77ac5be5e4b3dfbd
+SHA256: 1cc7346672ba666e0f5eef9d4165d08a2cd0b7df33e02f4ae7e184fa52f0d1f8
+SHA512: 64bff90bcb34e1ab11823b4f419b6e6758a803c62e8a631038091830077c046c17ecd2383a49492ddb819976b41c04337dd356e06b760d1d8cab1dbafc93d097
+Homepage: https://www.deepin.org/
+Description: dde wallpapers nonfree
+ Default wallpapers for dde
+

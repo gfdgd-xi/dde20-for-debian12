@@ -1,0 +1,18 @@
+Package: dde-kwin
+Architecture: i386
+Version: 5.5.25.1-3
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 2182
+Depends: libc6 (>= 2.4), libdrm2 (>= 2.4.75), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libgbm1 (>= 12.0.0~0), libgcc1 (>= 1:3.4), libgsettings-qt1 (>= 0.1+14.04.20140408), libkdecorations2-5v5 (>= 4:5.14.3), libkf5configcore5 (>= 4.97.0), libkf5coreaddons5 (>= 4.99.0), libkf5globalaccel-bin, libkf5globalaccel5 (>= 5.10.0), libkf5i18n5 (>= 4.97.0), libkf5waylandclient5, libkf5windowsystem5 (>= 4.100.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5qmlmodels5 (>= 5.14.1), libqt5quick5 (>= 5.10.0) | libqt5quick5-gles (>= 5.10.0), libqt5quickwidgets5 (>= 5.4.0), libqt5widgets5 (>= 5.2.0), libqt5x11extras5 (>= 5.7.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libx11-6, libxcb1, qtbase-abi-5-15-8, kwin-x11, kwin-wayland, plasma-framework, qml-module-qtquick-controls2, qml-module-qtquick-templates2
+Filename: ./d/dde-kwin/dde-kwin_5.5.25.1-3_i386.deb
+Size: 518340
+MD5sum: 4fe3560f23df0b1ce910a4971359b114
+SHA1: e63c2fb36766d38702672a4b7132ecb812d405e6
+SHA256: 0e480dcde56c2a3336bcde085745e7871540d54f585f7c65015f56e155b93121
+SHA512: 5a69cc71849860c00911d241610aa275767d09fb8365f55fa9c2431d8a6e488400633cc09f41be35381e2e9e7ac2a4724493d51c88735824e57cdbf8752f07b7
+Homepage: https://github.com/linuxdeepin/dde-kwin
+Description: KWin configures/plugins on the DDE
+ Let kwin work well in the Deepin Desktop Environment.
+

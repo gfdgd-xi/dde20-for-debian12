@@ -1,0 +1,19 @@
+Package: dcc-dock-plugin
+Architecture: amd64
+Version: 5.5.86.1-1
+Priority: optional
+Section: x11
+Source: dde-dock
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 259
+Depends: libc6 (>= 2.14), libdframeworkdbus2 (>= 5.5.5), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5 (>= 5.2.0~alpha1), libstdc++6 (>= 5), onboard
+Filename: ./d/dcc-dock-plugin/dcc-dock-plugin_5.5.86.1-1_amd64.deb
+Size: 97608
+MD5sum: 96060ae34624019f528de07d58a5b09d
+SHA1: fcb8d6ca79fcc43439294e623dee2d543dd95ca0
+SHA256: 46b74230256762daa54e2971afe202225c3f8768fdf5d75399990a5a245c1774
+SHA512: b343d526fe3fa45d134038279255ff9bb46513be2854e4fcf7a29a8f19f2db6b2153471e284b94170adb435f0b1d0609ff47798387505a2739a62232951eb362
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dcc plugin for dock settings
+ Dcc plugin for dock settings of deepin desktop-environment
+

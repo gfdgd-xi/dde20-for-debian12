@@ -1,0 +1,20 @@
+Package: deepin-font-manager
+Architecture: amd64
+Version: 5.9.14-1
+Priority: optional
+Section: utils
+Maintainer: Rekols <rekols@foxmail.com>
+Installed-Size: 4731
+Recommends: uos-reporter, deepin-event-log
+Conflicts: deepin-font-installer
+Replaces: deepin-font-installer
+Filename: ./d/deepin-font-manager/deepin-font-manager_5.9.14-1_amd64.deb
+Size: 2563624
+MD5sum: a68e2bb14e06fce606f8946c6fd0e157
+SHA1: b796b824c83df9a2e77872e8f3acf7495b6bf183
+SHA256: 5b144c9a2380730650c4c5fdd7eb8463d19fc979709f86553f8496813ca634c3
+SHA512: e53164344ea9cef39aef276d25ae2b21d47a9d8a3b8de3fc9e1c3eaa25aa25e4cc4d7f0a64e409d0897d2d86fa3caefbee7f74abbf5f88b5ab91fb26eae91c27
+Homepage: http://www.deepin.org
+Description: Deepin Font Manager binary
+ Font manager is a powerful font management tool. With Font Manager, you are not only able to search, install, enable, disable and delete fonts among others, but also preview fonts by inputting texts and setting the text size. It supports fonts in ttf, ttc and otf formats.
+

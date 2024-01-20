@@ -1,0 +1,21 @@
+Package: deepin-editor
+Architecture: amd64
+Version: 6.0.3-1+rb1
+Priority: optional
+Section: editors
+Maintainer: Debian Deepin Packaging Team <pkg-deepin-devel@lists.alioth.debian.org>
+Installed-Size: 19437
+Depends: dde-qt5integration, libdtkwidget5 (>= 5.4.11), libuchardet0 (>= 0.0.6), libchardet1
+Recommends: uos-reporter, deepin-event-log
+Filename: ./d/deepin-editor/deepin-editor_6.0.3-1+rb1_amd64.deb
+Size: 14018684
+MD5sum: 3fb3830ca6e5789e1dd055c61bd6c427
+SHA1: 3c09dfbf5873fbf33bddc13ed546fdd2297be328
+SHA256: e2df157916be1536fb845a7b46f48123a44b091005aff27415edf99a3c595540
+SHA512: 3bdcfd08c0cca3d0d7c0a4790418fd2e114096368bfed28e8e9878b4b9db944ab6c041886f70869f569190025d132120ef88e5d203cb27a57835f0c1ea4f39b4
+Homepage: https://github.com/linuxdeepin/deepin-editor
+Description: Text editor for DDE (Deepin Desktop Environment)
+ Advanced text editor based on dtk.
+ .
+ This package is part of DDE (Deepin Desktop Environment).
+

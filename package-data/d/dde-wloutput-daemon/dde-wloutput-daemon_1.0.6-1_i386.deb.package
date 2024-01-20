@@ -1,0 +1,18 @@
+Package: dde-wloutput-daemon
+Architecture: i386
+Version: 1.0.6-1
+Priority: optional
+Section: devel
+Maintainer: guonafu <guonafu@uniontech.com>
+Installed-Size: 194
+Depends: libc6 (>= 2.4), libdtkcore5 (>= 5.6), libgcc1 (>= 1:3.0), libkf5waylandclient5, libkf5waylandserver5, libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 5)
+Filename: ./d/dde-wloutput-daemon/dde-wloutput-daemon_1.0.6-1_i386.deb
+Size: 53232
+MD5sum: 45a20a5bfd6e6313491355fd45023934
+SHA1: b68ee50fb64c202b2fe51a0d1c1e510466617941
+SHA256: f97a1c5b530cf62995cc40c1715ea0ad81d68badc136ab57a14b2110d8dba4eb
+SHA512: e6e67cd51977419fdc335b70421061da4d851b1c4177689ae81fb64db76f61ce9c2b98ed0db313430dc76ae43c4b64690e6102de12125e9a914f758227a5e2be
+Homepage: http://www.deepin.org/
+Description: this is dde-wloutput-daemon
+ for wayland
+

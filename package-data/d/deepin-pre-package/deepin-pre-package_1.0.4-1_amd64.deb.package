@@ -1,0 +1,17 @@
+Package: deepin-pre-package
+Architecture: amd64
+Version: 1.0.4-1
+Priority: optional
+Section: misc
+Maintainer: deepin <zhangjiangang@uniontech.com>
+Installed-Size: 68
+Filename: ./d/deepin-pre-package/deepin-pre-package_1.0.4-1_amd64.deb
+Size: 16768
+MD5sum: 4a0d5bbde4baa8bb58078a9b9442fd24
+SHA1: d314513c189afbb92b92ef2c1cc52e904603e35d
+SHA256: b499b2e78f689874da4bd1281bdc8bcf98b106814e568ae6141a6e450eb69edd
+SHA512: 8b2ad8df528e7ed80320f71f24a85fe904c677a3111a370fd7feb21863fb25745edd21a411381355a2b1642d23e5174616e40d7ab5e8877da138c8f73bb9de58
+Homepage: <insert the upstream URL, if relevant>
+Description: Mirror pre-installed list
+ Mirror pre-installed list For store use
+

@@ -1,0 +1,20 @@
+Package: deepin-wallpapers
+Architecture: amd64
+Version: 1.7.12-2
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 46263
+Depends: deepin-wallpapers-nonfree
+Breaks: deepin-desktop-base (<< 2017.11.2)
+Filename: ./d/deepin-wallpapers/deepin-wallpapers_1.7.12-2_amd64.deb
+Size: 43756984
+MD5sum: 15b4b9ec11b7554c45b10122f58decfb
+SHA1: 40495b646979053710086a7b99d2b76e01f81141
+SHA256: 1f98cbcee98414332cce38876baf67d24122bf21da904917494137842fdd9ba8
+SHA512: b0a5e41b33e190e2e122f8ac672dc3bb64e7568cb62cc8144efa177f37a512cef6398c8c3c6b603c6b726d2187ead418eb6bc7a7a7e0c18dd5226e9b8ff514b8
+Homepage: https://www.deepin.org/
+Description: When users are ready to set their own desktop background,
+ Deepin Wallpaper provides many beautiful background pictures for users to choose.
+ It is part of Deepin software and DDE (Deepin Desktop Environment).
+

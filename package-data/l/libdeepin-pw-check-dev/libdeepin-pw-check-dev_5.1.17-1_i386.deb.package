@@ -1,0 +1,19 @@
+Package: libdeepin-pw-check-dev
+Architecture: i386
+Version: 5.1.17-1
+Priority: optional
+Section: devel
+Source: deepin-pw-check
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 72
+Depends: libdeepin-pw-check
+Filename: ./l/libdeepin-pw-check-dev/libdeepin-pw-check-dev_5.1.17-1_i386.deb
+Size: 15504
+MD5sum: 536f1a4ef2a3143caaddd15d0e28103c
+SHA1: 0f7a92815277e3c24e3b958cba06a6cb825093d0
+SHA256: 62d9fface3356d9c39fc0db4b5c455d57bede1876499dcb58389460f67824a31
+SHA512: 7893e2a86287e09729cfdb24659c094470592df4d852b358f5ed17f47deaa7d0d2c70b5eea7d0ccfb9af549e8c5d3f57fe05e565539a592cb64413fb64af94e6
+Homepage: http://www.deepin.org
+Description: deepin password check interface
+ deepin-pw-check is a tool to verify the validity of the password
+

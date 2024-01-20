@@ -1,0 +1,22 @@
+Package: deepin-turbo-booster
+Architecture: amd64
+Version: 0.0.6.3-1
+Priority: extra
+Section: devel
+Source: deepin-turbo
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 63
+Depends: deepin-turbo, libc6 (>= 2.34), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2)
+Filename: ./d/deepin-turbo-booster/deepin-turbo-booster_0.0.6.3-1_amd64.deb
+Size: 12996
+MD5sum: b136e8ae09731ee104e1b35626a79160
+SHA1: ec93ffc3d9696cb3b35e3d4391eecdadd63222fc
+SHA256: d4fe078f53ad759fbadd4bffdaadd99b4a51610cd10db85386748c617992b210
+SHA512: cdd35008830ed0bd37950eb56b8c802572de999a62d47d2556cddb27cbc2ed60da28745eb6a26ead9e4e0dbe946d166d044b55b7e013912c6ddaca233d9fdd89
+Description: DTK application booster binary for deepin-turbo
+ Application invoker and launcher daemon that speed up
+ application startup time and share memory. Provides also
+ functionality to launch applications as single instances.
+ .
+ This package contains the shared libraries.
+
